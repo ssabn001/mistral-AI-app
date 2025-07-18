@@ -1,0 +1,178 @@
+﻿Year,Month,DEPART MONTH,ORIGIN AIRPORT,ORIGIN CITY,DESTINATION AIRPORT,DESTINATION CITY,CARRIER,SEATS ,PASSENGER COUNT,DELAY Mins
+2024,7,7/1/2024,DCA,"Washington, DC",DEN,"Denver, CO",UA,7355,6256,3.55
+2024,7,7/1/2024,DCA,"Washington, DC",DEN,"Denver, CO",F9,2967,2592,5.6
+2024,7,7/1/2024,DCA,"Washington, DC",DEN,"Denver, CO",F9,218,189,5.1
+2024,7,7/1/2024,DCA,"Washington, DC",DEN,"Denver, CO",F9,17733,15128,3
+2024,7,7/1/2024,DCA,"Washington, DC",LAX,"Los Angeles, CA",DL,9548,8499,19.55
+2024,7,7/1/2024,DCA,"Washington, DC",LAX,"Los Angeles, CA",AA,19163,16825,5.15
+2024,7,7/1/2024,DCA,"Washington, DC",LAX,"Los Angeles, CA",AS,9563,8791,18.4
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",OO,872,650,28.85
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",YX,813,593,5.5
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",UA,1664,1292,5.4
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",UA,13883,10131,1.5
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",UA,256,195,2.3
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",UA,6377,4687,6.9
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",UA,11242,8072,1.5
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",UA,1045,751,28
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",AA,14557,10193,10
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",AA,3911,2890,1.25
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",AA,297,176,23.75
+2024,7,7/1/2024,DCA,"Washington, DC",ORD,"Chicago, IL",AA,9862,7529,1.7
+2024,7,7/1/2024,DEN,"Denver, CO",DEN,"Denver, CO",OO,1042,128,5.4
+2024,7,7/1/2024,DEN,"Denver, CO",DEN,"Denver, CO",OO,1494,328,2.7
+2024,7,7/1/2024,DEN,"Denver, CO",DEN,"Denver, CO",OO,508,199,2.6
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",DL,4091,3179,4.7
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",DL,8011,6440,1.25
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",OO,155,113,1.8
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",OO,11687,9494,2.25
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",SY,149,116,1.9
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,142,113,19.5
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,10404,8264,2.1
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,4645,3610,6.95
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,13101,10546,25.2
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,566,459,2.4
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,409,334,13
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,5205,4228,47.5
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,4509,3564,39.15
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,130,104,1.75
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",UA,135,109,2.75
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",WN,4650,3830,61.1
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",WN,15069,12520,9.65
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",WN,6632,5457,5.75
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",F9,772,592,5.55
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",F9,2936,2290,3.75
+2024,7,7/1/2024,DEN,"Denver, CO",LAX,"Los Angeles, CA",F9,150,115,5.9
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",OO,166,116,10.45
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",OO,147,119,7.4
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",UA,14017,10720,49.7
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",UA,136,104,11.8
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",UA,346,274,26.05
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",UA,18206,14100,4
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",UA,308,246,9.5
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",UA,7948,6218,3.3
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",UA,8963,7005,2.3
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",AA,12950,9881,10.7
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",AA,451,337,20.85
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",AA,206,154,6.1
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",WN,2882,2294,5.9
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",WN,10217,8243,13.4
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",WN,3864,3034,4.95
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",F9,155,119,5.35
+2024,7,7/1/2024,DEN,"Denver, CO",ORD,"Chicago, IL",F9,4064,3112,19.15
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",SY,234,208,0.75
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",UA,244,204,2.05
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",UA,27526,23309,7.5
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",UA,236,198,1.7
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",UA,15705,13406,8.75
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",UA,241,220,3.3
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",UA,22955,19340,27.1
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",UA,1929,1636,3.3
+2024,7,7/1/2024,EWR,"Newark, NJ",DEN,"Denver, CO",UA,801,649,34.85
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",FX,1386,1197,1.8
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",UA,49039,43140,3
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",UA,363,324,5.4
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",UA,1365,1195,2.95
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",UA,20604,17561,11.96
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",UA,20646,17985,3.75
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",AS,9458,8391,3.8
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",AS,6232,5397,1.5
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",AS,11653,10555,19
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",AS,686,622,20.625
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",NK,7157,6599,11.575
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",NK,2396,2202,22
+2024,7,7/1/2024,EWR,"Newark, NJ",LAX,"Los Angeles, CA",B6,29888,26626,45.9
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",G4,174,108,5.5
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,16763,11997,16.235
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,293,227,28.295
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,12487,8425,17
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,561,425,13
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,11776,8260,19
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,146,101,5.25
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,9797,7179,65.7
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,0,0,8.6
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,939,672,4.75
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,166,108,48.3
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,157,99,12
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,128,99,5.2
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",UA,150,108,26.2
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",MQ,579,445,63
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",MQ,3215,2461,2.95
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",AA,18459,12622,55.8
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",NK,2391,1534,36.45
+2024,7,7/1/2024,EWR,"Newark, NJ",ORD,"Chicago, IL",NK,578,411,11.535
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",UA,15394,13243,58.2
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",UA,1300,1159,13.86
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",UA,17002,14891,7.5
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",UA,214,189,40.91
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",UA,2420,2105,16.8
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",UA,6151,5039,24.03
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",UA,5886,5054,11
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",WN,4537,4103,32
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",WN,9550,8619,11.8
+2024,7,7/1/2024,IAD,"Washington, DC",DEN,"Denver, CO",WN,4620,4119,2.1
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",DL,304,280,1.5
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",UA,13735,12356,4.55
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",UA,320,280,2.8
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",UA,24575,22333,29.13
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",UA,19396,17218,15.305
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",AS,6747,6025,2.85
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",AS,5759,5225,3.7
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",AS,6760,6140,8.3
+2024,7,7/1/2024,IAD,"Washington, DC",LAX,"Los Angeles, CA",AS,640,581,13.11
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",OO,152,97,6.25
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,3628,2694,3.15
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,4366,2820,5.5
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,3109,2258,1.55
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,2333,1667,1.45
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,2726,2009,0.75
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,1067,825,4.05
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,516,369,2.65
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,567,434,29
+2024,7,7/1/2024,IAD,"Washington, DC",ORD,"Chicago, IL",UA,441,323,2.75
+2024,7,7/1/2024,JFK,"New York, NY",DEN,"Denver, CO",DL,13262,11116,2.35
+2024,7,7/1/2024,JFK,"New York, NY",DEN,"Denver, CO",DL,9510,7862,8
+2024,7,7/1/2024,JFK,"New York, NY",DEN,"Denver, CO",B6,15085,12495,14.95
+2024,7,7/1/2024,JFK,"New York, NY",DEN,"Denver, CO",B6,1539,1324,2.6
+2024,7,7/1/2024,JFK,"New York, NY",LAX,"Los Angeles, CA",DL,82232,71056,2.85
+2024,7,7/1/2024,JFK,"New York, NY",LAX,"Los Angeles, CA",DL,15103,13506,7.35
+2024,7,7/1/2024,JFK,"New York, NY",LAX,"Los Angeles, CA",DL,10909,9266,20.3
+2024,7,7/1/2024,JFK,"New York, NY",LAX,"Los Angeles, CA",AA,98885,87689,2.7
+2024,7,7/1/2024,JFK,"New York, NY",LAX,"Los Angeles, CA",B6,727,630,4.55
+2024,7,7/1/2024,JFK,"New York, NY",LAX,"Los Angeles, CA",B6,83018,74285,12.68
+2024,7,7/1/2024,JFK,"New York, NY",LAX,"Los Angeles, CA",B6,20682,18768,14.25
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",DL,141,115,12
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",OO,9819,7074,9.15
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",YX,9860,6993,15.7
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",AA,8963,6358,21
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",AA,154,120,25
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",AA,607,434,8.1
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",B6,9658,6682,17.19
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",B6,136,109,22
+2024,7,7/1/2024,JFK,"New York, NY",ORD,"Chicago, IL",5Y,1160,784,23.74
+2024,7,7/1/2024,1G4,"Peach Springs, AZ",1G4,"Peach Springs, AZ",YR,60,44,3
+2024,7,7/1/2024,1G4,"Peach Springs, AZ",1G4,"Peach Springs, AZ",YR,391,271,19.55
+2024,7,7/1/2024,1G4,"Peach Springs, AZ",BLD,"Boulder City, NV",YR,103,79,5.15
+2024,7,7/1/2024,1G4,"Peach Springs, AZ",BLD,"Boulder City, NV",YR,1768,1360,88.4
+2024,7,7/1/2024,1G4,"Peach Springs, AZ",BLD,"Boulder City, NV",YR,577,449,28.85
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",KO,1323,1083,66.15
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",KO,5225,4193,26.125
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",5V,692,640,34.6
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",7H,383,354,19.15
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",AS,61,48,3.05
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",AS,2157,1600,10.785
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",AS,445,305,22.25
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",AS,350,249,17.5
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",V8,184,176,9.2
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",QX,2150,1625,10.75
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",NC,606,485,30.3
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",NC,250,202,12.5
+2024,7,7/1/2024,ANC,"Anchorage, AK",DLG,"Dillingham, AK",KAT,1538,1442,76.9
+2024,7,7/2/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",AA,990,856,10
+2024,7,7/3/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",B6,18898,17157,10
+2024,7,7/4/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",AA,90724,82277,10
+2024,7,7/5/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",DL,13224,11878,10
+2024,7,7/6/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",B6,318,291,10
+2024,7,7/7/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",DL,348,305,10
+2024,7,7/8/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",DL,75423,66642,10
+2024,7,7/9/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",DL,10094,8837,10
+2024,7,7/10/2024,LAX,"Los Angeles, CA",JFK,"New York, NY",B6,78145,71380,10
