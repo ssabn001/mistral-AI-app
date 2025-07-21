@@ -62,7 +62,7 @@ def ask_mistral_airline(question):
         )
         return response.choices[0].message.content
 
-   except Exception as e:
+    except Exception as e:
         print(f"DEBUG: API error: {str(e)}")  # Add this line
         return f"Error calling Mistral API: {str(e)}"
 
