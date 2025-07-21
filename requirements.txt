@@ -1,1 +1,3 @@
-gradio==4.26.0pandasmistralai==0.4.2
+gradio==4.26.0
+pandas
+mistralai==0.4.2
