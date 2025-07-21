@@ -10,6 +10,7 @@ chunks = [df.iloc[i:i+chunk_size] for i in range(0, len(df), chunk_size)]
 
 # --- Mistral setup ---
 api_key = os.environ.get("Mistral_API_KEY")
+print(f"DEBUG: API key loaded: {'Yes' if api_key else 'No'}")
 model = "mistral-large-latest"
 client = MistralClient(api_key=api_key)
 
