@@ -82,4 +82,4 @@ iface = gr.Interface(
     )
 )
 
-iface.launch(share=True, enable_queue=False)
+iface.launch(share=True)
