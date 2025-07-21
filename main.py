@@ -2,14 +2,14 @@ import pandas as pd
 import gradio as gr
 from mistralai.client import MistralClient
 from mistralai.models.chat_completion import ChatMessage
-
+import os
 # --- Load and chunk the data ---
 df = pd.read_csv("DOT_SAMPLE2_T100.csv")
 chunk_size = 200
 chunks = [df.iloc[i:i+chunk_size] for i in range(0, len(df), chunk_size)]
 
 # --- Mistral setup ---
-api_key = "9PDH3aipDWdurbfFlJmNioY9XKhNTndM"
+api_key = os.environ.get("Mistral_API_KEY")
 model = "mistral-large-latest"
 client = MistralClient(api_key=api_key)
 
@@ -82,6 +82,5 @@ iface = gr.Interface(
     )
 )
 
-import os
 
 iface.launch(server_name="0.0.0.0", server_port=int(os.environ["PORT"]))
