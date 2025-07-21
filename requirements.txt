@@ -2,3 +2,5 @@ gradio==4.16.0
 pandas
 mistralai==0.4.2
 pydantic==1.10.13
+fastapi==0.95.2
+starlette==0.27.0
