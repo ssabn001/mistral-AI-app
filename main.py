@@ -82,4 +82,6 @@ iface = gr.Interface(
     )
 )
 
-iface.launch(share=True)
+import os
+
+iface.launch(server_port=int(os.environ["PORT"]))
